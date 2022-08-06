@@ -1,7 +1,5 @@
-<div align='center'>
-  <h1>tygerxqt.</h1>
-  a self-taught web/iot developer.
- </div>
- <br />
- <div align='center'>
- </div>
+<h1 align="center">hello, im tygerxqt.</h1>
+<h3 align="center">a self-taught web/iot developer. <br /> i also founded <a href="https://github.com/nord-studio">nord</a> and <a href="https://github.com/lofustudio">lofu</a>.</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,prisma,react,next,md,remix,tailwind,tauri" />
+</p>
