@@ -19,11 +19,7 @@
   <a href="https://github.com/NyanSpaghetti">
     @NyanSpaghetti
   </a>
-  and
-  <a href="https://github.com/sensenuwu">
-    @sensenuwu
-  </a>
-  
-  thank you so much <3
+
+   thank you so much <3
 </h3>
 
