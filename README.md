@@ -15,11 +15,11 @@
 </p>
 <h1 />
 <h3 align="center">
-  big shout out to my sponsors: <br />
+  shout out to my sponsors: <br />
   <a href="https://github.com/NyanSpaghetti">
     @NyanSpaghetti
   </a>
 
-   thank you so much <3
+   thank you for your support <3
 </h3>
 
