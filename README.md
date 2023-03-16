@@ -13,13 +13,4 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,prisma,react,next,md,remix,tailwind,tauri" />
 </p>
-<h1 />
-<h3 align="center">
-  shout out to my sponsors: <br />
-  <a href="https://github.com/NyanSpaghetti">
-    @NyanSpaghetti
-  </a>
-
-   thank you for your support <3
-</h3>
 
