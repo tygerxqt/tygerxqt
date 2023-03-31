@@ -8,7 +8,7 @@
   <a href="https://lofu.studio" target="_blank">Lofu Studio</a>.
   
   Currently working on 
-  <a href="https://github.com/campsite-app" target="_blank">Campsite</a>.
+  <a href="https://github.com/campsite-chat" target="_blank">Campsite</a>.
   
   <p align="center">
     <a href="https://skillicons.dev">
