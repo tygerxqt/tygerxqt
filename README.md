@@ -9,10 +9,4 @@
   
   Currently working on 
   <a href="https://github.com/campsite-chat" target="_blank">Campsite</a>.
-  
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src='https://skillicons.dev/icons?i=ts,js,html,css,prisma,react,next,md,tailwind,tauri' />
-    </a>
-  </p>
 </div>
