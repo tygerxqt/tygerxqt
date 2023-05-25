@@ -8,5 +8,7 @@
   <a href="https://lofu.studio" target="_blank">Lofu Studio</a>.
   
   Currently working on 
-  <a href="https://github.com/campsite-chat" target="_blank">Campsite</a>.
+  <a href="https://github.com/campsite-chat" target="_blank">Campsite</a>
+  and
+  <a href="https://github.com/lofustudio/horizon" target="_blank">Horizon</a>.
 </div>
